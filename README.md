@@ -1,3 +1,3 @@
 # 1.23-Tech-Layoffs
 
-Using pandas to analyse tech layoff data from kaggle
+Using Pandas to analyze tech layoff data from kaggle
